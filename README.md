@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepansh Malviya</h1>
-<h3>I’m a data professional with over 5 years of experience in **data analytics**, **machine learning**, and **cybersecurity**. My passion lies in transforming raw data into actionable insights that drive business performance and operational efficiency.</h3>
+<h3>I’m a data professional with over 5 years of experience in data analytics, machine learning, and data engineering. My passion lies in transforming raw data into actionable insights that drive business performance and operational efficiency.</h3>
+
+Some of my key achievements include:
+- Developing a web scraping framework to accelerate threat detection by 35%.
+- Building machine learning models that boosted e-commerce product recommendation efficiency by 75%.
+- Creating ETL workflows for behavioral data analysis, enhancing predictive analytics accuracy by 25%.
+- Delivering $200K incremental revenue through data-driven marketing strategies.
+
+I’m proficient in **Python**, **SQL**, **Tableau**, **AWS SageMaker**, and **advanced Excel functions**. Whether it’s building ML models, optimizing workflows, or delivering insightful dashboards, I thrive on solving challenging problems with innovative solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
