@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepansh Malviya</h1>
-<h3>I’m a data professional with over 5 years of experience in data analytics, machine learning, and data engineering. My passion lies in transforming raw data into actionable insights that drive business performance and operational efficiency.</h3>
+I’m a data professional with over 5 years of experience in **data analytics**, **machine learning**, and **data engineering**. My passion lies in transforming raw data into actionable insights that drive business performance and operational efficiency.
 
 Some of my key achievements include:
 - Developing a web scraping framework to accelerate threat detection by 35%.
