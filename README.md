@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Deepansh Malviya
 
 
-I’m a **data professional** with over 5 years of experience in **data analytics**, **machine learning**, and **data engineering**. In my previous roles, I transformed raw data into actionable insights that enhanced business performance and operational efficiency.  
+A **data professional** with over 5 years of experience in **data analytics**, **machine learning**, and **data engineering**. In my previous roles, I transformed raw data into actionable insights that enhanced business performance and operational efficiency.  
 
 Some of my key achievements include:  
 - Developed a web scraping framework that accelerated threat detection by 35%.  
