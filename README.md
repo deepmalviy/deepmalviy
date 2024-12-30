@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Deepansh Malviya</h1>
-I’m a data professional with over 5 years of experience in **data analytics**, **machine learning**, and **data engineering**. My passion lies in transforming raw data into actionable insights that drive business performance and operational efficiency.
+Hi 👋, I'm Deepansh Malviya
+I’m a **data professional** with over 5 years of experience in **data analytics**, **machine learning**, and **data engineering**. In my previous roles, I transformed raw data into actionable insights that enhanced business performance and operational efficiency.  
 
-Some of my key achievements include:
-- Developing a web scraping framework to accelerate threat detection by 35%.
-- Building machine learning models that boosted e-commerce product recommendation efficiency by 75%.
-- Creating ETL workflows for behavioral data analysis, enhancing predictive analytics accuracy by 25%.
-- Delivering $200K incremental revenue through data-driven marketing strategies.
+Some of my key achievements include:  
+- Developed a web scraping framework that accelerated threat detection by 35%.  
+- Built machine learning models that improved e-commerce product recommendation efficiency by 75%.  
+- Created ETL workflows for behavioral data analysis, increasing predictive analytics accuracy by 25%.  
+- Delivered $200K incremental revenue by leveraging data-driven marketing strategies.  
 
-I’m proficient in **Python**, **SQL**, **Tableau**, and **advanced Excel functions**. Whether it’s building ML models, optimizing workflows, or delivering insightful dashboards, I thrive on solving challenging problems with innovative solutions.
+I worked extensively with **Python**, **SQL**, **Tableau**, and **advanced Excel functions** to solve complex problems and drive impactful outcomes. Whether it was optimizing workflows, building machine learning pipelines, or delivering insightful dashboards, I thrived on leveraging data to create meaningful solutions.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
