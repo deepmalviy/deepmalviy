@@ -7,7 +7,7 @@ Some of my key achievements include:
 - Creating ETL workflows for behavioral data analysis, enhancing predictive analytics accuracy by 25%.
 - Delivering $200K incremental revenue through data-driven marketing strategies.
 
-I’m proficient in **Python**, **SQL**, **Tableau**, **AWS SageMaker**, and **advanced Excel functions**. Whether it’s building ML models, optimizing workflows, or delivering insightful dashboards, I thrive on solving challenging problems with innovative solutions.
+I’m proficient in **Python**, **SQL**, **Tableau**, and **advanced Excel functions**. Whether it’s building ML models, optimizing workflows, or delivering insightful dashboards, I thrive on solving challenging problems with innovative solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
