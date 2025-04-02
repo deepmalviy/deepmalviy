@@ -4,10 +4,12 @@
 A **data professional** with over 5 years of experience in **data analytics**, **machine learning**, and **data engineering**. In my previous roles, I transformed raw data into actionable insights that enhanced business performance and operational efficiency.  
 
 Some of my key achievements include:  
-- Developed a web scraping framework that accelerated threat detection by 35%.  
-- Built machine learning models that improved e-commerce product recommendation efficiency by 75%.  
-- Created ETL workflows for behavioral data analysis, increasing predictive analytics accuracy by 25%.  
-- Delivered $200K incremental revenue by leveraging data-driven marketing strategies.  
+- Developed predictive models that increased customer retention rates by 22%
+- Optimized SQL queries reducing report generation time from 15 to 3 minutes
+- Led data mining initiatives using PySpark to improve fraud detection by 15%
+- Designed interactive dashboards that improved business insights and operational efficiency
+- Automated ETL workflows reducing manual intervention by 40%
+- Conducted sentiment analysis on 200K+ customer reviews boosting satisfaction by 18%  
 
 I worked extensively with **Python**, **SQL**, **Tableau**, and **advanced Excel functions** to solve complex problems and drive impactful outcomes. Whether it was optimizing workflows, building machine learning pipelines, or delivering insightful dashboards, I thrived on leveraging data to create meaningful solutions.  
 
@@ -20,7 +22,7 @@ I’m actively seeking new opportunities in **data science**, **machine learning
 
 ### 🌱 I’m Currently Learning  
 I believe in continuous learning and staying updated with the latest technologies. Here’s what I’m currently diving into:  
-- **Advanced Cybersecurity Analytics**: Enhancing my skills in threat detection and log parsing.  
+- **Advanced Analytics and Agentic AI**:  Exploring new frontiers in autonomous data analysis and AI agents.  
 - **Cloud Computing**: Expanding my expertise in AWS and Azure services.  
 - **Machine Learning**: Exploring ensemble models, time series forecasting, and optimization techniques.  
 - **Big Data Tools**: Hands-on learning with Spark, Hive, and HDFS for large-scale data processing.  
